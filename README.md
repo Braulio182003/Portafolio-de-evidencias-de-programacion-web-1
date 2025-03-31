@@ -51,7 +51,7 @@ Portafolio de evidencias de programacion web 1
 
     <h3>Unidad No. 3</h3>
     <ul>
-         <!-- Añadir actividades de la Unidad No. 3 aquí -->
+         <!-- Añadir actividades de la Unidad No. 3 -aquí -->
     </ul>
      <h3>Proyecto</h3>
     <ul>
